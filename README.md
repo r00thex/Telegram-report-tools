@@ -30,7 +30,7 @@ pip install -r requirements.txt
 # Install
 
 ```
-git clone 
+git clone https://github.com/r00thex/Telegram-report-tools.git
 cd Telegram-report-tools
 python ROotg.py
 ```
