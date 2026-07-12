@@ -64,7 +64,7 @@ Written in Python and open source with free updates ♻️
 
 Payment method: Crypto (Usdt, btc, ltc, etc... and Git card)
 
-{colors['yellow']} Buy: https://t.me/esfelorm
+{colors['yellow']} Buy: https://t.me/roothexh
 """)
     exit()
 clear()
