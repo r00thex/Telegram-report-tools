@@ -1,6 +1,6 @@
-# Telegram Reporter 
+# Root hex Telegram Reporter 
 
-## Features: 
+## about your tools :-
 
 <b> 
   
@@ -21,10 +21,10 @@ To submit a report, you need api hash/api id of your Telegram account!
 Click the button below to get your api hash/api id of your Telegram account</b> 
 
 
-# dependency
+# module
 
 ```
-pip install -r requirements.txt
+pip install prettytable
 ```
 
 # Install
@@ -60,4 +60,4 @@ python ROotg.py
 `Payment method: Crypto (Usdt, btc, ltc, etc... and Git card)`
 
 
-Buy: https://t.me/Artax3rxes
+Buy: https://t.me/roothexh
